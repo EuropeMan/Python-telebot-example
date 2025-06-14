@@ -1,1 +1,1 @@
-TOKEN = "8009554841:AAGWcukMP1DQFY1eVcot1Dx4jPp67M6w75Q"
+TOKEN = "@BotFather key"
